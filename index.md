@@ -21,6 +21,10 @@ I am Yan Dong. I got my bachelor degree (Automation) from Beijing Institute of T
 #### AGV Scanner
 
 #### Coal Mining Support 3D Reconstrction
-![image](https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/zmj_1.jpg)
-
-<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/zmj_1.jpg" width="640" alt="support">
+<center>
+<figure>
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/zmj_1.jpg" width="320" />
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/zmj_1.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/zmj_1.jpg" width="100" />
+</figure>
+</center>
