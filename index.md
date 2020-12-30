@@ -29,8 +29,8 @@ Deleloped a robust and real-time algorithm to localize datamatrix tags on ground
 Reconstruct hydraulic pressure supports in mine. Two LiDARs are used for localization and reconstruction.
 <center>
 <figure>
-<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/zmj1.jpg" height="240" />
-<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/zmj2.jpg" height="240" />
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/zmj1.png" height="240" />
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/zmj2.png" height="240" />
 </figure>
 </center>
 
