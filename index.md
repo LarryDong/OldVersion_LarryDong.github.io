@@ -23,3 +23,4 @@ I am Yan Dong. I got my bachelor degree (Automation) from Beijing Institute of T
 #### Coal Mining Support 3D Reconstrction
 ![image](https://github.com/LarryDong/LarryDong.github.io/blob/dev/pictures/zmj_1.jpg)
 
+<img src="https://github.com/LarryDong/LarryDong.github.io/blob/dev/pictures/zmj_1.jpg" width="640" alt="support">
