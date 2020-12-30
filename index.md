@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to my homepage!
 
-You can use the [editor on GitHub](https://github.com/LarryDong/LarryDong.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This homepage is just created and I am new to github pages. It looks ugly now I know, but it will be better.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Introduction
+I am Yan Dong. I got my bachelor degree (Automation) from Beijing Institute of Technology (BIT) in 2018, now I am a master's student in Tsinghua University (THU). My research interests are SLAM & event-based cameras. My updated CV can be found [here].
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publication
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- Standard and Event Cameras Fusion for Feature Tracking. Yan Dong and Tao Zhang. The 4th International Conference on Machine Vision and Applications, 2021 (Accepted)
+- A Real Time Algorithm for Multiple Data Matrix Codes Localization. Yan Dong and Tao Zhang. 2020 International Conference on Guidance, Navigation and Control (ICGNC 2020), Tianjin, China, October 23-25, 2020
+- A Novel Cane with Camera to Locate Tactile Paving. The 12th IFAC Conference on Control Applications in Marline Systems, Robotics, and Vehicles, in Daejeon Korea, Sep 2019
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Project
 
-### Jekyll Themes
+#### AGV Scanner
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LarryDong/LarryDong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Coal Mining Support 3D Reconstrction
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
