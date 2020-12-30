@@ -39,7 +39,7 @@ Reconstruct hydraulic pressure supports in mine. Two LiDARs are used for localiz
 Proposed a new algorithm using both event-based camera and standard cameras for feature tracking. Source codes will be released soon.
 <center>
 <figure>
-<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/eb_tracking.png" height="360" />
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/eb_tracking.png" />
 </figure>
 </center>
 
