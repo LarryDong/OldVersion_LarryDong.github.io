@@ -17,7 +17,7 @@ I am Yan Dong. I got my bachelor degree (Automation) from Beijing Institute of T
 ## Research 
 
 #### Event-based feature tracking
-Proposed a new algorithm using both event-based camera and standard cameras for feature tracking. Source codes will be released soon.
+Proposed a new algorithm using both event-based camera and standard cameras for feature tracking. Source codes will be released soon. **Source code is released!** [here](https://github.com/LarryDong/FusionTracking)
 <center>
 <figure>
 <img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/eb_tracking.png" />
