@@ -1,10 +1,17 @@
 # Welcome to my homepage!
 
-This homepage is just created and I am new to github pages. It looks ugly now I know, but it will be better.
+Just finished Master's thesis defense, waiting for graduate and packing myself home.
+
+<center>
+<figure>
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/thesis_defense.jpg" height="240" />
+</figure>
+</center>
+
 
 
 ## Introduction
-I am Yan Dong. I got my bachelor degree (Automation) from Beijing Institute of Technology (BIT) in 2018, now I am a master's student in Tsinghua University (THU). My research interests are SLAM & event-based cameras. My updated CV can be found [here].
+I am Yan Dong. I got my bachelor degree (Automation) from Beijing Institute of Technology (BIT) in 2018, now I will graduate from Tsinghua University (THU) soon and be a PhD candidate in HUST. My research interests are SLAM & event-based cameras. 
 
 ## Publication
 
@@ -25,7 +32,7 @@ Proposed a new algorithm using both event-based camera and standard cameras for 
 </center>
 
 #### Event-based dense mapping
-Using both event-based camera and standard cameras for mapping. Due to the nature of event cameras, event-based mapping is sparse/semi-dense edge map. Frames can be used to generate dense map. In this work I attempt to use segmentations on frames to fill depths in edge map. I will continue to work on this method if time permits. Paper on arXiv: [https://arxiv.org/abs/2102.03567](https://arxiv.org/abs/2102.03567).
+Using both event-based camera and standard cameras for mapping. Due to the nature of event cameras, event-based mapping is sparse/semi-dense edge map. Frames can be used to generate dense map. In this work I attempt to use segmentations on frames to fill depths in edge map. I will continue to work on this method if time permits. Paper on arXiv: [https://arxiv.org/abs/2102.03567](https://arxiv.org/abs/2102.03567). If you have any ideas to improve this method, please contact me.
 <center>
 <figure>
 <img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/eb_mapping.png" />
@@ -38,8 +45,8 @@ Using both event-based camera and standard cameras for mapping. Due to the natur
 ## Project
 
 
-#### Coal mining support 3D reconstrction (In process)
-Reconstruct hydraulic pressure supports in mine. Two LiDARs are used for localization and reconstruction. After reconstruction, each support is isolated based on protecting board on the top. Futher work is to calcualte poses and show the model of suppots in mine.
+#### Coal mining support 3D reconstruction (Almost finished)
+Reconstruct hydraulic pressure supports in mine. Two LiDARs are used for localization and reconstruction. After reconstruction, each support is isolated and states (position&orientation) of the sprag (护帮)  and base are detected for its control. Now we are waiting for Mining Products Safety Approval and Certification to test our algorithm in a real mine. 
 <center>
 <figure>
 <!--
@@ -53,7 +60,7 @@ Reconstruct hydraulic pressure supports in mine. Two LiDARs are used for localiz
 
 
 #### AGV scanner (Finished)
-Deleloped a robust and real-time algorithm to localize datamatrix tags on ground. The algorithm runs in rasberry pi 4 with up to 40fps. The scanner prototype is now used in many applications of our partners.
+Deleloped a robust and real-time algorithm to localize datamatrix tags on ground. The algorithm runs in rasberry pi 4 with up to 40fps. The scanner prototype was used in many applications of our partners, but today they are using scanners from DaHeng which costs less money and efforts.  :(
 <center>
 <figure>
 <img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/agv1.bmp" height="240" />
