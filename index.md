@@ -4,7 +4,7 @@ Just finished Master's thesis defense, waiting for graduate and packing myself h
 
 <center>
 <figure>
-<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/thesis_defense.jpg" height="240" />
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/main/pictures/thesis_defense.jpg" height="240" />
 </figure>
 </center>
 
@@ -27,7 +27,7 @@ I am Yan Dong. I got my bachelor degree (Automation) from Beijing Institute of T
 Proposed a new algorithm using both event-based camera and standard cameras for feature tracking. Source codes will be released soon.
 <center>
 <figure>
-<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/eb_tracking.png" />
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/main/pictures/eb_tracking.png" />
 </figure>
 </center>
 
@@ -50,11 +50,11 @@ Reconstruct hydraulic pressure supports in mine. Two LiDARs are used for localiz
 <center>
 <figure>
 <!--
-<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/zmj1.png" height="240" />
-<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/zmj2.png" height="240" />
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/main/pictures/zmj1.png" height="240" />
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/main/pictures/zmj2.png" height="240" />
 -->
-<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/zmj_slam.png" height="240" />
-<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/zmj_segmentation.png" height="240" />
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/main/pictures/zmj_slam.png" height="240" />
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/main/pictures/zmj_segmentation.png" height="240" />
 </figure>
 </center>
 
@@ -63,8 +63,8 @@ Reconstruct hydraulic pressure supports in mine. Two LiDARs are used for localiz
 Deleloped a robust and real-time algorithm to localize datamatrix tags on ground. The algorithm runs in rasberry pi 4 with up to 40fps. The scanner prototype was used in many applications of our partners, but today they are using scanners from DaHeng which costs less money and efforts.  :(
 <center>
 <figure>
-<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/agv1.bmp" height="240" />
-<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/agv2.bmp" height="240" />
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/main/pictures/agv1.bmp" height="240" />
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/main/pictures/agv2.bmp" height="240" />
 </figure>
 </center>
 
