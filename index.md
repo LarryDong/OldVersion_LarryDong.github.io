@@ -1,13 +1,12 @@
 # Welcome to my homepage!
 
-Just finished Master's thesis defense, waiting for graduate and packing myself home.
+Graduated and achieved Master. Now staying at home...
 
 <center>
 <figure>
-<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/main/pictures/thesis_defense.jpg" height="240" />
+<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/main/pictures/graduate.jpg" height="240" />
 </figure>
 </center>
-
 
 
 ## Introduction
