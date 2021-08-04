@@ -10,7 +10,7 @@ Graduated and achieved Master. Now staying at home...
 
 
 ## Introduction
-I am Yan Dong. I got my bachelor degree (Automation) from Beijing Institute of Technology (BIT) in 2018, now I will graduate from Tsinghua University (THU) soon and be a PhD candidate in HUST. My research interests are SLAM & event-based cameras. 
+I am Yan Dong. I got my bachelor degree (Automation) from Beijing Institute of Technology (BIT) in 2018, now I have graduated from Tsinghua University (THU) soon and be a PhD candidate in HUST. My research interests are SLAM & event-based cameras. 
 
 ## Publication
 
@@ -23,7 +23,12 @@ I am Yan Dong. I got my bachelor degree (Automation) from Beijing Institute of T
 ## Research 
 
 #### Event-based feature tracking
-Proposed a new algorithm using both event-based camera and standard cameras for feature tracking. Source codes will be released soon.
+Proposed a new algorithm using both event-based camera and standard cameras for feature tracking. 
+
+Paper avaliable: [Standard and Event Cameras Fusion for Feature Tracking](https://dl.acm.org/doi/abs/10.1145/3459066.3459075)
+
+Source code released: [Here](https://github.com/LarryDong/FusionTracking)
+
 <center>
 <figure>
 <img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/main/pictures/eb_tracking.png" />
