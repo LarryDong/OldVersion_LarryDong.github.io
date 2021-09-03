@@ -1,32 +1,25 @@
 # Welcome to my homepage!
 
-Graduated and achieved Master. Now staying at home...
-
-<center>
-<figure>
-<img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/main/pictures/graduate.jpg" height="240" />
-</figure>
-</center>
-
-
 ## Introduction
-I am Yan Dong. I got my bachelor degree (Automation) from Beijing Institute of Technology (BIT) in 2018, now I have graduated from Tsinghua University (THU) soon and be a PhD candidate in HUST. My research interests are SLAM & event-based cameras. 
+Yan Dong (PhD candidate)
+
+*State Key Lab of Digital Manufacturing Equipment and Technology*  
+Huazhong University of Science and Technology (HUST), China.   
+
 
 ## Publication
 
-- Standard and Event Cameras Fusion for Feature Tracking. Yan Dong and Tao Zhang. The 4th International Conference on Machine Vision and Applications, 2021 (Accepted)
-- A Real Time Algorithm for Multiple Data Matrix Codes Localization. Yan Dong and Tao Zhang. 2020 International Conference on Guidance, Navigation and Control (ICGNC 2020), Tianjin, China, October 23-25, 2020
-- A Novel Cane with Camera to Locate Tactile Paving. The 12th IFAC Conference on Control Applications in Marline Systems, Robotics, and Vehicles, in Daejeon Korea, Sep 2019
+- (Accepted) Yan Dong and et al. Roof Supports Measurement in Coal Mining by 3D Registration and Model Fitting. 2021 China Automation Congress (CAC2021), 
+- Yan Dong and Tao Zhang. 2021. Standard and Event Cameras Fusion for Feature Tracking. In 2021 International Conference on Machine Vision and Applications (ICMVA 2021). Association for Computing Machinery, New York, NY, USA, 55–60. DOI:https://doi.org/10.1145/3459066.3459075
+- Yan Dong and Tao Zhang. 2020. A Real Time Algorithm for Multiple Data Matrix Codes Localization. 2020 International Conference on Guidance, Navigation and Control (ICGNC 2020)
 
 
 
 ## Research 
 
 #### Event-based feature tracking
-Proposed a new algorithm using both event-based camera and standard cameras for feature tracking. 
-
-Paper avaliable: [Standard and Event Cameras Fusion for Feature Tracking](https://dl.acm.org/doi/abs/10.1145/3459066.3459075)
-
+Proposed a new algorithm using both event-based camera and standard cameras for feature tracking.  
+Paper avaliable: [Standard and Event Cameras Fusion for Feature Tracking](https://dl.acm.org/doi/abs/10.1145/3459066.3459075)  
 Source code released: [Here](https://github.com/LarryDong/FusionTracking)
 
 <center>
