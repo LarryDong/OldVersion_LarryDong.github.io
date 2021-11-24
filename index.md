@@ -1,7 +1,7 @@
 # Welcome to my homepage!
 
 ## Introduction
-Yan Dong (PhD candidate)
+Yan Dong (PhD Student)
 
 *State Key Lab of Digital Manufacturing Equipment and Technology*  
 Huazhong University of Science and Technology (HUST), China.   
