@@ -9,9 +9,9 @@ Huazhong University of Science and Technology (HUST), China.
 
 ## Publication
 
-- (Accepted) Yan Dong and et al. Roof Supports Measurement in Coal Mining by 3D Registration and Model Fitting. 2021 China Automation Congress (CAC2021). [Poster](https://www.researchgate.net/publication/356494533_Roof_Supports_Measurement_in_Coal_Mining_by_3D_Registration_and_Model_Fitting)
-- Yan Dong and Tao Zhang. 2021. Standard and Event Cameras Fusion for Feature Tracking. In 2021 International Conference on Machine Vision and Applications (ICMVA 2021). Association for Computing Machinery, New York, NY, USA, 55–60. DOI:https://doi.org/10.1145/3459066.3459075. [Code](https://github.com/LarryDong/FusionTracking) [Paper](https://dl.acm.org/doi/abs/10.1145/3459066.3459075)
-- Dong Y., Zhang T. (2022) A Real-Time Algorithm for Multiple Data Matrix Codes Localization. In: Yan L., Duan H., Yu X. (eds) Advances in Guidance, Navigation and Control. Lecture Notes in Electrical Engineering, vol 644. Springer, Singapore. https://doi.org/10.1007/978-981-15-8155-7_208. [Paper](https://link.springer.com/chapter/10.1007/978-981-15-8155-7_208)
+- Y. Dong et al., "Roof Supports Measurement in Coal Mining by 3D Registration and Model Fitting," 2021 China Automation Congress (CAC), 2021, pp. 2494-2497. [Paper](https://ieeexplore.ieee.org/document/9728663), [Poster](https://www.researchgate.net/publication/356494533_Roof_Supports_Measurement_in_Coal_Mining_by_3D_Registration_and_Model_Fitting)
+- Yan Dong and Tao Zhang. 2021. Standard and Event Cameras Fusion for Feature Tracking. In 2021 International Conference on Machine Vision and Applications (ICMVA 2021). Association for Computing Machinery, New York, NY, USA, 55–60.[Paper](https://dl.acm.org/doi/abs/10.1145/3459066.3459075), [Code](https://github.com/LarryDong/FusionTracking) 
+- Dong Y., Zhang T. (2022) A Real-Time Algorithm for Multiple Data Matrix Codes Localization. In: Yan L., Duan H., Yu X. (eds) Advances in Guidance, Navigation and Control. Lecture Notes in Electrical Engineering, vol 644. Springer, Singapore. [Paper](https://link.springer.com/chapter/10.1007/978-981-15-8155-7_208)
 
 
 
