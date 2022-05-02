@@ -29,7 +29,7 @@ Source code released: [Here](https://github.com/LarryDong/FusionTracking)
 </center>
 
 #### Event-based dense mapping
-Using both event-based camera and standard cameras for mapping. Due to the nature of event cameras, event-based mapping is sparse/semi-dense edge map. Frames can be used to generate dense map. In this work I attempt to use segmentations on frames to fill depths in edge map. I will continue to work on this method if time permits. Paper on arXiv: [https://arxiv.org/abs/2102.03567](https://arxiv.org/abs/2102.03567). If you have any ideas to improve this method, please contact me.
+Using both event-based camera and standard cameras for mapping. Due to the nature of event cameras, event-based mapping is sparse/semi-dense edge map. Frames can be used to generate dense map. In this work I attempt to use segmentations on frames to fill depths in edge map. Paper on arXiv: [https://arxiv.org/abs/2102.03567](https://arxiv.org/abs/2102.03567). If you have any ideas to improve this method, please contact me.
 <center>
 <figure>
 <img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/dev/pictures/eb_mapping.png" />
@@ -40,9 +40,8 @@ Using both event-based camera and standard cameras for mapping. Due to the natur
 
 ## Project
 
-
-#### Coal mining support 3D reconstruction (Almost finished)
-Reconstruct hydraulic pressure supports in mine. Two LiDARs are used for localization and reconstruction. After reconstruction, each support is isolated and states (position&orientation) of the sprag (护帮)  and base are detected for its control. Now we are waiting for Mining Products Safety Approval and Certification to test our algorithm in a real mine. 
+#### Coal mining support 3D reconstruction (Aborted)
+Reconstruct hydraulic pressure supports in mine. Two LiDARs are used for localization and reconstruction. After reconstruction, each support is isolated and states (position&orientation) of the sprag (护帮) and base are detected for its control. Now project closure encountered some technical & practical issues so that I don't want to do it anymore.
 <center>
 <figure>
 <!--
@@ -63,10 +62,6 @@ Deleloped a robust and real-time algorithm to localize datamatrix tags on ground
 <img src="https://raw.githubusercontent.com/LarryDong/LarryDong.github.io/main/pictures/agv2.bmp" height="240" />
 </figure>
 </center>
-
-
-
-
 
 
 
